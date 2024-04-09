@@ -4,10 +4,10 @@
 This project involves conducting Exploratory Data Analysis (EDA) on a dataset that contains information about students' study hours and their corresponding marks or grades. The goal is to analyze the relationship between study hours and academic performance, identify patterns or trends, and derive meaningful insights.
 
 ## Dataset
+This dataset can be downloaded from https://www.kaggle.com/datasets/samira1992/student-scores-simple-dataset
 The dataset used for this analysis contains the following columns:
-- `Student ID`: Unique identifier for each student.
-- `Study Hours`: Number of hours spent studying per week.
-- `Marks`: Academic performance or marks obtained by the student.
+- `Hours`: Number of hours spent studying per week.
+- `Scores`: Academic performance or marks obtained by the student.
 
 ## Performing EDA
 1. Open the `EDA student study hours.ipynb` Jupyter Notebook.
